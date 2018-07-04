@@ -56,8 +56,7 @@
 ## 配置jdk环境变量
 
 1、编辑全局变量，使用命令`vim /etc/profile`，出现如下结果：![Image_text](https://raw.githubusercontent.com/dukehu/notes/master/img/centos_java_install_03.png),
-对文件进行如下[编辑]()，
-> #set java enviroment 
+对文件进行如下[编辑]()，   
 > JAVA_HOME=/usr/local/java/jdk1.8.0_171  
 > CLASSPATH=.:{$JAVA_HOME}/jre/lib/rt.jar:${JAVA_HOME}/lib/dt.jar:${JAVA_HOME}/lib/tools.jar  
 > PATH=$PATH:${JAVA_HOME}/bin  
