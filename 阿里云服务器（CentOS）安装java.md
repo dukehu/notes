@@ -65,3 +65,8 @@
 2、是配置文件生效，使用命令`source /etc/profile`
 
 3、查看是否安装成果，使用命令`java -version`，出现如下界面说明安装成功![Image_text](https://raw.githubusercontent.com/dukehu/notes/master/img/centos_java_install_04.png)
+
+
+相关文章：  
+[阿里云服务器（CentOS）安装mysql]()
+[spring boot 项目部署在阿里云服务器（CentOS）上]()
