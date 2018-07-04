@@ -68,5 +68,5 @@
 
 
 相关文章：  
-[阿里云服务器（CentOS）安装mysql]()
-[spring boot 项目部署在阿里云服务器（CentOS）上]()
+[阿里云服务器（CentOS）安装mysql](https://github.com/dukehu/notes/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88CentOS%EF%BC%89%E5%AE%89%E8%A3%85mysql.md)   
+[spring boot 项目部署在阿里云服务器（CentOS）上](https://github.com/dukehu/notes/blob/master/spring%20boot%20%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E5%9C%A8%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%88CentOS%EF%BC%89%E4%B8%8A.md)
