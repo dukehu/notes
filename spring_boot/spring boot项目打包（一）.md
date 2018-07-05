@@ -43,4 +43,4 @@
 然后使用`java -jar xxx.jar`，运行此jar包
 
 相关文章：  
-[spring boot 项目打包之war运行]()
+[spring boot 项目打包之war运行](https://github.com/dukehu/notes/blob/master/spring_boot/spring%20boot%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%EF%BC%88%E4%BA%8C%EF%BC%89.md)
