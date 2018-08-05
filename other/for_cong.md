@@ -32,3 +32,5 @@
 
 ## 开发工具  
 idea：下载地址：http://www.jetbrains.com/
+
+[《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
