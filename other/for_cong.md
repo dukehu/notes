@@ -1,27 +1,34 @@
 # 一份0基础学习java的清单
 
-#### 写在开始
-> 想要过自己想要的生活，那就得自己动手，你的后半辈子要过的生活，全在你手里  
-在不不知道自己能干什么，想干什么的时候，先把手边能干，能挣钱的干好  
-这可能不是你这一辈子最好的选择，但是至少目前，据我了解你的心理、你的想法、你的处境，这是你目前最好的选择  
-附上一首《生活不止眼前的苟且》，需自行打开播放器，插上耳机  
-一旦开始，不要停止。。。。
-
 ## 内功篇（java基础、sql基础、前端基础）
-> 这里所说的基础不包括像数据结构、算法等这些很基础的基础，这些基础需要你以后去学（说实话，我也不会） 
+> 这里所说的基础不包括像数据结构、算法等这些很基础的基础
 
 ### java基础
+* javase部分：链接：https://pan.baidu.com/s/1n-f6QYifoNrIsmCZbABMfQ 密码：mrac  
+* javaee部分：链接：https://pan.baidu.com/s/1r0Ska2TVyVSZu53CmYlfUg 密码：3pzk  
 
 ### sql基础
-
+* SQL[教程](http://www.runoob.com/sql/sql-tutorial.html)  
+* mysql[教程](http://www.runoob.com/mysql/mysql-tutorial.html)
+  
 ### 前端基础
-
+* 比较基础的：链接：https://pan.baidu.com/s/1_GSf-iKqwfeHKbz7r-fAyQ 密码：86ff  
+* 现在比较流行的前端框架：[vue.js](https://cn.vuejs.org/v2/guide/)  
 ## 招式片（spring、spring mvc、mybatis）
 
 ### spring
+* 百度网盘视频地址：链接：https://pan.baidu.com/s/11zETnsjTr35HRv3E8PGKGg 密码：xgo0  
+* 官网：https://spring.io/  
 
-### spring mvc
+### spring mvc  
+* 百度网盘视频地址：链接：https://pan.baidu.com/s/1P2nch9itG7Ft8MvseUYIRQ 密码：e6jo  
+  
+### mybatis  
+* 百度网盘视频地址：链接：https://pan.baidu.com/s/1Nwo2Cq_2S_1s9Ax1Ff52cA 密码：2ck1
 
-### mybatis
+## 修炼篇（maven、git）
+* maven：链接：https://pan.baidu.com/s/1IFVq4tbMkTnuwtczSfWvYw 密码：mirf  
+* git：在[github](https://github.com/)上注册账号，进行代码管理
 
-## 修炼篇（maven、svn\git）
+## 开发工具  
+idea：下载地址：http://www.jetbrains.com/
