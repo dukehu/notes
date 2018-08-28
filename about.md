@@ -10,8 +10,10 @@
 > 手机号：188********
 
 ## 专业技能
+> java、mysql  
+> vue  
+> spring boot 、spring cloud
 
-
-                                   欢迎勾搭
+ 欢迎勾搭  
  ![Image_text](https://github.com/dukehu/notes/blob/master/img/duke_weixin.jpg)
                                    
